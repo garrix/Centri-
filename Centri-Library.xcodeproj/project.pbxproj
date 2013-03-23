@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		27AF7DAB16FD7518005B67F8 /* aHeader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = aHeader.h; sourceTree = "<group>"; };
 		27AF7DBB16FD7596005B67F8 /* SystemInterfaces.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SystemInterfaces.h; sourceTree = "<group>"; };
 		27AF7DBC16FD75A8005B67F8 /* ideas.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = ideas.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -18,7 +17,6 @@
 			children = (
 				27AF7DAC16FD7541005B67F8 /* conceptCode */,
 				27AF7DAD16FD754F005B67F8 /* interfaces */,
-				27AF7DAB16FD7518005B67F8 /* aHeader.h */,
 			);
 			sourceTree = "<group>";
 		};
